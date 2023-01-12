@@ -1,0 +1,5 @@
+1. Lav en klasse Raflebæger med en attribut for et antal terninger i bægeret og en konstruktør der angiver antallet af terninger.
+
+2. Tilføj en metode "Ryst" der ryster bægeret, og returnere det samlede antal øjne
+
+3. Tilføj en metode "se" der returnere listen af terningernes øjne uden at ryste igen.

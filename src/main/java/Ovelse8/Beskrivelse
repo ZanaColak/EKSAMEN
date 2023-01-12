@@ -1,0 +1,5 @@
+1. Lav en dateAgeCalculator der har to attributter: yourAge og dateAge
+
+2. Tilføj en metode til at beregne den lavest acceptable dateAge ud fra formlen: lowest = yourAge / 2+7
+
+3. Tilføj en metode til at returnere hvorvidt date er for ung eller ej

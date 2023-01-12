@@ -1,0 +1,9 @@
+Opret enum Seasons med sommer, fall, winter og autumn.
+•Opret den abstrakte superklasse animal der har en construktor med et navn, og en metode ”makeSound()”, der returner en String.
+•Opret to subklasser ”Dog” og ”Cat”.
+•Opret nu en Main klasse med en mainmetode.
+•I mainskal du nu oprette en liste for Dyreværnet. De har brug for at ”Rollo, Lisa og Edward”, som er hunde og ”Elsa, Tuborg og Lizzie” der er katte bliver lagt
+ i en liste, så de har et nemt overblik over dyrene til adoption.
+
+•Argumenter for valg af listetype. Hvad er smartest her?
+•Nu vil vi gerne at hvert dyr en efter en udskrives sammen med den lyd de laver.

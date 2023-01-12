@@ -1,0 +1,5 @@
+1. Lav en klasse Names der har tre attributter: Firstname, middleName, og lastName
+
+2. Tilføj en constructor der modtager et fullName og selv splitter det op i de tre dele - men tager hensyn til at der måske ikke er et mellemnavn
+
+3. Tilføj en toString der skriver det fulde navn ud, men tager hensyn til der måske ikke er et mellemnavn

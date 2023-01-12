@@ -1,0 +1,5 @@
+1. Lav en klasse Tekst, med attributten TekstLinjer (Det skal være en liste der kan indeholde tekstrenge).
+
+2. Tilføj en metode "Tilføj", der kan tilføje en tekststreng til listen af tekstlinjer.
+
+3. Tilføj en metode "FindAntalUnikke", der returnerer antallet af unikke tekstlinjer i listen.

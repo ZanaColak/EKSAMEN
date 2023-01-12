@@ -1,0 +1,6 @@
+1. Lav en klasse Keyword med to attributter: word og definition og en konstruktør der modtager word og definition
+
+2. Tilføj en metode matches der returnerer hvorvidt et søgeord matcher word. Søgeordet kan være en del af ordet, og have anderledes store og små bogstaver
+
+3. Tilføj en see also attribut der henviser til en liste ad andre keywords på et keyword. lav en udskiftsmetode der udskriver word og definion
+og en eventuel liste af andre keywords

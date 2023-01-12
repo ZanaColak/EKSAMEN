@@ -1,0 +1,13 @@
+4. User
+Skriv en klasse kaldet User, der indeholder fornavn, efternavn, email og tlfnr. Skriv flg. metoder:
+• Konstruktør
+• Get og set metoder
+• toString metode
+
+Man skal kunne instantiere en User som kun har en email, fornavn og efternavn tilknyttet.
+• Skriv en klasse kaldet UserList, der indeholder en liste af User objekter.
+• Skriv en metode som skal hedde addUser i UserList, der tilføjer en User til listen, hvis der
+ikke allerede findes en med samme email.
+
+Hvis du har tid ...
+• Skriv en metode i UserList, der returnerer en (ny) ArrayList<User>, der er sorteret efter først fornavn, derefter efternavn. Brug Collections.sort metoden til at sortere.

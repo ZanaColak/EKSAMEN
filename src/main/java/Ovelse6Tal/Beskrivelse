@@ -1,0 +1,5 @@
+1. Lav en klasse tal, der initialiseres med en liste af disse tal: 5,66,12,87,66,56,89,66
+
+2. Tilføj en metode tælTal der modtager et heltal og returnerer antal forekomster af tallet.
+
+3. Tilføj en metode "gennemsnit" der returnerer gennemsnittet af listens tal.

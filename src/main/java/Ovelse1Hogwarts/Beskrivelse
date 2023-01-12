@@ -1,0 +1,6 @@
+1. Lav en klasse HogwartsStudent med attributterne: FirstName, lastName og House.
+
+2. Tilføj en setHouse metoder kun acceptere enten "Gryffindor", "Hufflepuff", "Ravenclaw" eller "Slytherin" og smider en
+exception hvis den modtager et hvilket som helst andet hus navn.
+
+3. Implementer funktionalitet, så HogwartsStudent objekter kan sorteres efter deres efternavn (lastName)

@@ -1,0 +1,7 @@
+1. Lav to klasser
+- Cykel med attributter for mærke, farve og pris og en konstruktør der sætter disse værdier
+- Butik med en liste der kan indeholde cykler, som er på lager
+
+2. Tilføj en metode "Tilføj" til klassen butik, der kan tilføje en cykel til lagerlisten
+
+3. Tilføj en metode "samletLagerBeholdning" der returnerer summen af prisen for cykler på lager.

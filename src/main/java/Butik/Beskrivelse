@@ -1,0 +1,9 @@
+1. Skriv en klasse der hedder Butik.
+
+2. Skriv en metode kaldet køb der tager to heltal (int), der repræsenterer hhv. en vares pris og det betalte
+beløb.
+
+Metoden skal returnere hvor mange byttepenge, der skal gives tilbage.
+
+Hverken beløbet eller prisen må være negative tal – hvis det er tilfældet kastes en exception.
+Såfremt det betalte beløb er for lille i forhold til prisen, skal der ligeledes kastes en exception

@@ -1,0 +1,5 @@
+1. Lav en klasse MotherBoard og en klasse sataDrive - giv MotherBoard mulighed for at tilkoble fire SataDrives
+
+2. Tilføj en metode på MotherBoard der udskriver en liste over alle tilkoblede SataDrives.
+
+3. Tilføj en metode til at forbinde et SataDrive til MotherBoard - metoden skal selv finde en ledig plads, eller give besked om at boardet er fyldt

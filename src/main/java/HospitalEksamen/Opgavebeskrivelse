@@ -1,0 +1,17 @@
+3. Hospital
+Lav en klasse kaldet Hospital, der indeholder en arraylist af objekter af typen Department.
+
+Lav en klasse kaldet Department, der tager følgende ind i konstruktøren:
+
+- Navn på department
+- Liste over personale - vælg selv om det er en ArrayList
+med Strings eller med Personnel objekter.
+
+Department skal have en metode til at tilføje eller fjerne personale. Override toString metoden for Department, så den skriver ud hvor
+mange ansatte, der er på afdelingen.
+
+Override toString metoden for Hospital til at skrive ud hvilke afdelinger, der er på hospitalet.
+
+
+Hvis du har tid...
+Brug et for-loop til at tælle antal personale op på tværs af afdelinger.

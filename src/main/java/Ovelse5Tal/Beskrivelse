@@ -1,0 +1,6 @@
+1. Lav en klasse Tal med en metode som genererer og returnerer et tilfældigt tal mellem 1-5
+
+2. Tilføj en metode "lavMangeTal" der genererer 10 tilfældige tal mellem 1-5, der gemmes i en listen i klassen.
+
+3. Tilføj en metode "getTilfældigeTal" der returnerer listen af tilfældige tal.
+

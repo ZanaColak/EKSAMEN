@@ -1,0 +1,6 @@
+1. Lav en klasse CodeMessage med attributterne: PlainText, ciphers (et array af ints) og shiftValue.
+
+2. Tilføj en metode der kan konvertere et enkelt tegn til et tal hvor, "A=1", "B=2", "C=3" osv.
+
+3. Tilføj en metode der læser i gennem plainText, og konverterer hver enkelt tegn ved hjælp af den foregående metode,
+og gemmer listen af tal i ciphers.
